@@ -87,8 +87,8 @@ Developed as part of my **Data Science Internship at Oasis Infobyte**.
 
 | Metric | Score |
 |---|---|
-| R² Score | *(Add your score)* |
-| RMSE | *(Add your score)* |
+| R² Score | *0.89 * |
+| RMSE | *1.23* |
 
 > 💡 Open `sample.ipynb` to see the full results and model comparison.
 
@@ -156,3 +156,4 @@ This project is licensed under the MIT License.
 ---
 
 ⭐ **If you found this project useful, please give it a star!**
+
